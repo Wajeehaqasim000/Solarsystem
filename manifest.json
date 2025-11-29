@@ -1,0 +1,13 @@
+{
+  "background_color": "#093563",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "solarsystem.manipulator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "solarsystem.manipulator",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "Solarsystem.manipulator",
+  "description": "."
+}
