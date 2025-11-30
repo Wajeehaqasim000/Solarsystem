@@ -2,12 +2,26 @@
   "background_color": "#093563",
   "dir": "ltr",
   "display": "standalone",
-  "name": "solarsystem.manipulator",
+  "name": "Celestial analyser",
   "orientation": "any",
   "scope": "/",
-  "short_name": "solarsystem.manipulator",
+  "short_name": "Celestialanalyser",
   "start_url": "/",
   "theme_color": "#000000",
-  "id": "Solarsystem.manipulator",
-  "description": "."
+  "id": "celestialanalyser ",
+  "description": ".",
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "standalone",
+    "window-controls-overlay",
+    "minimal-ui"
+  ],
+  "categories": [
+    "education"
+  ],
+  "share_target": {
+    "method": "POST"
+  }
 }
